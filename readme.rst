@@ -1,7 +1,7 @@
 Baca dengan Teliti dan Seksama !
 
 ##################################
-Source Code Input Tanpa Page Load	
+Source Code : Input Tanpa Page Load	
 ##################################
 
 Silahkan gunakan source code ini untuk menambah knowledge yang sudah anda miliki
