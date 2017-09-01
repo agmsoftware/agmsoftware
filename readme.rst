@@ -1,70 +1,52 @@
-###################
-What is CodeIgniter
-###################
+Baca dengan Teliti dan Seksama !
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+##################################
+Source Code Input Tanpa Page Load	
+##################################
+
+Silahkan gunakan source code ini untuk menambah knowledge yang sudah anda miliki
+
 
 *******************
-Release Information
+Perhatian
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+Aplikasi aplikasi yang adadi repository ini, sebagian besar sudah ada di internet dan 
+bisa anda googling. Kalau anda sampai ke repo ini sepertinya anda kurang berminat terhadap
+tutorial yang berbahasa English :)
+
 
 **************************
-Changelog and New Features
+Fitur
 **************************
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+Aplikasi ini hanya contoh untuk menunjukkan cara input data tanpa Page Load ( Refresh ?? )
 
-*******************
-Server Requirements
-*******************
 
-PHP version 5.6 or newer is recommended.
+**********************
+Kebutuhan Codeigniter 
+**********************
 
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
+Source Code di aplikasi ini menggunakan Codeigniter versi 3.1.0
 
-************
-Installation
-************
-
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
 
 *******
-License
+Lisensi
 *******
 
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+Source Code di repo ini sepenuhnya milik AGM Software.
+Jika anda ingin memodifikasi/menggunakan/mengcopy paste "source code" ini untuk kepentingan bisnis dan hal yang menguntungkan,
+Silahkan kontak kami di agmsoftware.indonesia@gmail.com
 
-*********
-Resources
-*********
 
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community IRC <https://webchat.freenode.net/?channels=%23codeigniter>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
 
 ***************
-Acknowledgement
+Tanggung Jawab
 ***************
 
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+Segala bentuk ingkar janji atau kecurangan yang anda lakukan, silahkan pertanggung jawabkan dihadapan Allah SWT atau Tuhan YME di akherat nanti
+
+Terima Kasih :)
+
+
+
