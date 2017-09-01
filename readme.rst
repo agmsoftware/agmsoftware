@@ -4,21 +4,21 @@ Baca dengan Teliti dan Seksama !
 Source Code : Input Tanpa Page Load	
 ##################################
 
-Silahkan gunakan source code ini untuk menambah knowledge yang sudah anda miliki
+Silahkan pelajari source code ini untuk menambah knowledge yang sudah anda miliki
 
 
 *******************
 Perhatian
 *******************
 
-Aplikasi aplikasi yang adadi repository ini, sebagian besar sudah ada di internet dan 
+Aplikasi yang ada di repository ini, sebagian besar sudah ada di internet dan 
 bisa anda googling. Kalau anda sampai ke repo ini sepertinya anda kurang berminat terhadap
-tutorial yang berbahasa English :)
+tutorial yang berbahasa English :D
 
 
-**************************
+********
 Fitur
-**************************
+********
 
 Aplikasi ini hanya contoh untuk menunjukkan cara input data tanpa Page Load ( Refresh ?? )
 
