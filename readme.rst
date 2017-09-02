@@ -4,23 +4,23 @@ Baca dengan Teliti dan Seksama !
 Source Code : Input Tanpa Page Load	
 ##################################
 
-Silahkan pelajari source code ini untuk menambah knowledge yang sudah anda miliki
+Silahkan pelajari source code ini untuk meningkatkan skill yang sudah anda miliki
 
 
 *******************
 Perhatian
 *******************
 
-Aplikasi yang ada di repository ini, sebagian besar sudah ada di internet dan 
-bisa anda googling. Kalau anda sampai ke repo ini sepertinya anda kurang berminat terhadap
-tutorial yang berbahasa English :D
+Aplikasi yang ada di repository ini, sebagian besar logikanya mirip dengan yang ada di internet dan 
+bisa anda googling. Kalau anda sampai ke halaman repo ini sepertinya anda kurang berminat terhadap
+tutorial yang menggunakan English :D
 
 
 ********
 Fitur
 ********
 
-Aplikasi ini hanya contoh untuk menunjukkan cara input data tanpa Page Load ( Refresh ?? )
+Aplikasi ini hanya contoh untuk menunjukkan cara input data tanpa Page Load 
 
 
 **********************
@@ -38,13 +38,14 @@ Source Code di repo ini sepenuhnya milik AGM Software.
 Jika anda ingin memodifikasi/menggunakan/mengcopy paste "source code" ini untuk kepentingan bisnis dan hal yang menguntungkan,
 Silahkan kontak kami di agmsoftware.indonesia@gmail.com
 
+atau anda bisa ketik ulang sendiri, sehingga anda benar benar paham apa yang anda buat.
 
 
 ***************
 Tanggung Jawab
 ***************
 
-Segala bentuk ingkar janji atau kecurangan yang anda lakukan, silahkan pertanggung jawabkan dihadapan Allah SWT atau Tuhan YME di akherat nanti
+Segala bentuk pelanggaran Lisensi yang anda lakukan, akan anda pertanggungjawabkan dihadapan Allah SWT atau Tuhan YME
 
 Terima Kasih :)
 
