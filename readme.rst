@@ -12,8 +12,7 @@ Perhatian
 *******************
 
 Aplikasi yang ada di repository ini, sebagian besar logikanya mirip dengan yang ada di internet dan 
-bisa anda googling. Kalau anda sampai ke halaman repo ini sepertinya anda kurang berminat terhadap
-tutorial yang menggunakan English :D
+bisa anda googling. 
 
 
 ********
