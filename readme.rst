@@ -1,5 +1,7 @@
 Baca dengan Teliti dan Seksama !
 
+Setiap pengguna source code ini, setuju dengan yang tertulis dibawah ini 
+
 ##################################
 Source Code : Input Tanpa Page Load	
 ##################################
@@ -23,10 +25,13 @@ Aplikasi ini hanya contoh untuk menunjukkan cara input data tanpa Page Load
 
 
 **********************
-Kebutuhan Codeigniter 
+Tools 
 **********************
 
-Source Code di aplikasi ini menggunakan Codeigniter versi 3.1.0
+Codeigniter versi 3.1.0
+jQuery ( https://code.jquery.com/jquery-2.2.4.js )
+
+
 
 
 *******
