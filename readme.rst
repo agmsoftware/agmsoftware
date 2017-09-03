@@ -26,7 +26,8 @@ Aplikasi ini hanya contoh untuk menunjukkan cara input data tanpa Page Load
 Tools 
 **********************
 
-Codeigniter versi 3.1.0 dan jQuery https://code.jquery.com/jquery-2.2.4.js
+| Codeigniter versi 3.1.0 
+| jQuery https://code.jquery.com/jquery-2.2.4.js
 
 
 
