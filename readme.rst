@@ -1,7 +1,7 @@
 Baca dengan Teliti dan Seksama !
 
 ##################################
-Source Code : Input Tanpa Page Load	
+Source Code : Codeigniter dan Ajax tanpa Page Load
 ##################################
 
 Silahkan pelajari source code ini untuk meningkatkan skill yang sudah anda miliki
