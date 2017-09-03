@@ -36,7 +36,7 @@ Tools
 Lisensi
 *******
 
-Source Code di repo ini sepenuhnya milik AGM Software dan hanya untuk kepentingan belajar / latihan / referensi semata
+Source Code di repo ini sepenuhnya milik AGM Software dan hanya untuk kepentingan belajar / latihan / referensi semata.
 Jika anda ingin memodifikasi/menggunakan/mengcopy paste sebagian "source code" ini untuk kepentingan bisnis dan aktivitas yang menguntungkan,
 Silahkan kontak agmsoftware.indonesia@gmail.com
 
