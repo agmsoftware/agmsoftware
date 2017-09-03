@@ -19,13 +19,3 @@ class Proses extends CI_Controller {
 
 }
 
-
-
-//$data_to_be_pass=$_POST['data_to_be_pass'];
- 
-//$res="Data Passed Successfully: ".$data_to_be_pass;
-//echo json_encode($res);
- 
-
-//include('db.php');
-
