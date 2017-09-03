@@ -1,7 +1,5 @@
 Baca dengan Teliti dan Seksama !
 
-Setiap pengguna source code ini, setuju dengan yang tertulis dibawah ini 
-
 ##################################
 Source Code : Input Tanpa Page Load	
 ##################################
@@ -38,18 +36,18 @@ jQuery ( https://code.jquery.com/jquery-2.2.4.js )
 Lisensi
 *******
 
-Source Code di repo ini sepenuhnya milik AGM Software.
-Jika anda ingin memodifikasi/menggunakan/mengcopy paste "source code" ini untuk kepentingan bisnis dan hal yang menguntungkan,
-Silahkan kontak kami di agmsoftware.indonesia@gmail.com
+Source Code di repo ini sepenuhnya milik AGM Software dan hanya untuk kepentingan belajar / latihan / referensi semata
+Jika anda ingin memodifikasi/menggunakan/mengcopy paste sebagian "source code" ini untuk kepentingan bisnis dan aktivitas yang menguntungkan,
+Silahkan kontak agmsoftware.indonesia@gmail.com
 
-atau anda bisa ketik ulang sendiri, sehingga anda benar benar paham apa yang anda buat.
+atau anda bisa ketik ulang sendiri, sehingga anda benar benar memahami sistem yang anda kerjakan / bangun.
 
 
 ***************
 Tanggung Jawab
 ***************
 
-Segala bentuk pelanggaran Lisensi yang anda lakukan, akan anda pertanggungjawabkan dihadapan Allah SWT atau Tuhan YME
+Saya setuju bahwa segala bentuk pelanggaran Lisensi yang saya lakukan, akan saya pertanggungjawabkan dihadapan Allah SWT atau Tuhan YME
 
 Terima Kasih :)
 
