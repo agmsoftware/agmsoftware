@@ -84,7 +84,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     var matkul_mhs  =$("#matkul_mhs").val();
 
 
-// AJAX code to send data to php file.
+// AJAX submit.
         $.ajax({
             type: "POST",
             url: "<?php echo base_url();?>index.php/proses/show",
